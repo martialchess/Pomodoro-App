@@ -23,7 +23,7 @@ It helps you stay focused using timed work sessions and breaks, while visually t
 ## 🚀 Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/pomodoro-timer.git
+   git clone https://github.com/martialchess/Pomodoro-App.git
    cd pomodoro-timer
 2. Run the script:
    python main.py
